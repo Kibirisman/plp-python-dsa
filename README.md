@@ -16,7 +16,7 @@
 ### Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/plp-python-dsa.git
+   git clone https://github.com/Kibirisman/plp-python-dsa.git
    ```
 2. Navigate to the project directory:  
    ```sh
